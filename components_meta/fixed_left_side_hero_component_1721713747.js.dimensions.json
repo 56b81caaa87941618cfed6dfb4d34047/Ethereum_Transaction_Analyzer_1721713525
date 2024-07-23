@@ -1,0 +1,18 @@
+{
+    "id": "fixed_left_side_hero_component-b36ea4de-30b0-9aa8-5ff0-b9a091a6960d",
+    "name": "fixed_left_side_hero_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": 7,
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}
